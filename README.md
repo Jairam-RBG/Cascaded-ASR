@@ -1,4 +1,4 @@
-# t-SEED: Multilingual Speech Recognizer for Tamil and English Languages
+# M-MARS: Modular Multilingual Speech Recognizer for Tamil and English Languages
 This repo contains code for reproducing results in "t-SEED: Multilingual Speech Recognizer for Tamil and English Languages".
 
 
@@ -21,7 +21,7 @@ This repo contains code for reproducing results in "t-SEED: Multilingual Speech 
 
 ### Getting the Repository
 ```angular2html
-git clone https://github.com/rbg-research/t-seed
+git clone https://github.com/rbg-research/
 cd t-seed
 ```
 
