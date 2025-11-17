@@ -21,8 +21,8 @@ This repo contains code for reproducing results in "t-SEED: Multilingual Speech 
 
 ### Getting the Repository
 ```angular2html
-git clone https://github.com/rbg-research/
-cd t-seed
+git clone https://github.com/rbg-research/M-Mars
+cd M-Mars
 ```
 
 ### Installation and Setup
